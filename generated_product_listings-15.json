@@ -1,0 +1,323 @@
+{
+    "total_processed": 15,
+    "successful": 15,
+    "failed": 0,
+    "results": [
+        {
+            "product_id": 1,
+            "original_name": "Turtle Check Men Navy Blue Shirt",
+            "category": "Apparel",
+            "price": 49.99,
+            "image_path": "product_images/product_1.jpg",
+            "generated_listing": {
+                "title": "Turtle Check Men Navy Blue Casual Shirt",
+                "description": "Elevate your casual wardrobe with the Turtle Check Men Navy Blue Shirt, designed for effortless style and comfort this fall. This shirt features a classic check pattern in navy blue and white, offering a versatile look that pairs well with jeans or chinos. Crafted for men who appreciate both style and ease, it includes a button-down front and a neat collar for a polished appearance. The full sleeves and regular fit ensure comfort throughout your day, whether you're out with friends or enjoying a relaxed weekend. Its breathable fabric makes it an ideal choice for the fall season, combining functionality with a timeless design. Add this essential topwear to your collection for a smart, casual vibe that stands out.",
+                "features": [
+                    "Classic navy blue and white check pattern",
+                    "Button-down front with neat collar",
+                    "Full sleeves with buttoned cuffs",
+                    "Regular fit for all-day comfort",
+                    "Breathable fabric perfect for fall",
+                    "Versatile style suitable for casual outings",
+                    "Durable stitching for long-lasting wear"
+                ],
+                "keywords": "men's navy blue shirt, checkered shirt men, casual men's shirt, fall shirt men, button-down shirt men, full sleeve shirt, men's topwear, casual check shirt, comfortable men's shirt, navy blue check shirt"
+            }
+        },
+        {
+            "product_id": 2,
+            "original_name": "Peter England Men Party Blue Jeans",
+            "category": "Apparel",
+            "price": 49.99,
+            "image_path": "product_images/product_2.jpg",
+            "generated_listing": {
+                "title": "Peter England Men Party Blue Jeans - Casual Summer Wear",
+                "description": "Step out in style with the Peter England Men Party Blue Jeans, crafted for the fashion-conscious man. These jeans feature a classic blue wash with subtle fading and whiskering on the thighs, adding a trendy, worn-in look perfect for casual outings. Designed for summer wear, they offer a comfortable fit with a mid-rise waist and straight leg cut, ensuring ease of movement. The jeans include traditional five-pocket styling with contrast stitching, delivering both functionality and style. Ideal for casual parties, weekend hangouts, or everyday wear, these jeans blend durability with contemporary design, making them a versatile addition to your wardrobe. Pair them effortlessly with your favorite tees or shirts for a polished casual look.",
+                "features": [
+                    "Classic blue wash with subtle fading and whiskering",
+                    "Mid-rise waist and straight leg fit for comfort",
+                    "Durable fabric suitable for summer casual wear",
+                    "Traditional five-pocket design with contrast stitching",
+                    "Perfect for casual parties and daily outings",
+                    "Versatile styling that pairs well with various tops",
+                    "Lightweight and breathable for warm weather"
+                ],
+                "keywords": "Peter England jeans, men blue jeans, casual jeans men, summer jeans, party wear jeans, straight leg jeans, mid-rise jeans, men's bottomwear, casual denim, blue jeans, summer fashion men, men's apparel, comfortable jeans, stylish men's jeans, durable denim"
+            }
+        },
+        {
+            "product_id": 3,
+            "original_name": "Titan Women Silver Watch",
+            "category": "Accessories",
+            "price": 49.99,
+            "image_path": "product_images/product_3.jpg",
+            "generated_listing": {
+                "title": "Titan Women Silver Casual Watch - Sleek Winter Style",
+                "description": "Elevate your everyday look with the Titan Women Silver Watch, a perfect blend of elegance and casual charm. Featuring a polished silver-tone stainless steel mesh strap and a minimalistic round dial, this watch is designed to complement your winter wardrobe effortlessly. The clean white face with simple silver markers and hands ensures easy readability while maintaining a sophisticated aesthetic. Lightweight and comfortable, it is ideal for daily wear, adding a touch of refined style to any casual outfit. Durable and versatile, this watch is an excellent accessory for women seeking both function and fashion at an affordable price.",
+                "features": [
+                    "Polished silver-tone stainless steel mesh strap for comfort and style",
+                    "Minimalistic round dial with clear silver markers and hands",
+                    "Lightweight design ideal for casual daily wear",
+                    "Durable construction suitable for winter season use",
+                    "Easy-to-read white dial enhances time visibility",
+                    "Secure clasp for reliable fit throughout the day",
+                    "Elegant yet simple design pairs well with various outfits"
+                ],
+                "keywords": "Titan women watch, silver watch for women, casual women's watch, winter accessory, stainless steel watch, minimalist women's watch, mesh strap watch, affordable women's watch, daily wear watch, elegant women's watch, silver dial watch, lightweight women's watch, Titan watch, women's fashion watch"
+            }
+        },
+        {
+            "product_id": 4,
+            "original_name": "Manchester United Men Solid Black Track Pants",
+            "category": "Apparel",
+            "price": 49.99,
+            "image_path": "product_images/product_4.jpg",
+            "generated_listing": {
+                "title": "Manchester United Men's Black Solid Track Pants",
+                "description": "Elevate your casual wardrobe with the Manchester United Men Solid Black Track Pants, designed for comfort and style during the fall season. These black track pants feature a sleek, solid design with the iconic Manchester United logo subtly embroidered on the upper thigh, adding a touch of team pride without overwhelming your look. Crafted for men, these pants provide a comfortable fit with an elastic waistband and adjustable drawstring for personalized wear. The tapered legs and cuffed ankles ensure a modern silhouette that pairs perfectly with sneakers or casual footwear. Ideal for everyday casual outings, light workouts, or lounging, these track pants combine functionality with a sporty aesthetic. Durable material promises longevity and easy maintenance, making them a valuable addition to your bottomwear collection.",
+                "features": [
+                    "Solid black track pants with Manchester United logo embroidery",
+                    "Elastic waistband with adjustable drawstring for a custom fit",
+                    "Tapered leg design with cuffed ankles for a modern look",
+                    "Made from durable, comfortable fabric suitable for fall",
+                    "Ideal for casual wear, light exercise, and leisure activities",
+                    "Machine washable for easy care",
+                    "Official Manchester United merchandise"
+                ],
+                "keywords": "Manchester United track pants, men's track pants, black track pants, casual men's bottoms, fall track pants, sportswear, athletic pants, elastic waistband pants, tapered leg pants, cuffed ankle pants, Manchester United apparel, men's casual wear, team logo pants, lounge pants, comfortable track pants"
+            }
+        },
+        {
+            "product_id": 5,
+            "original_name": "Puma Men Grey T-shirt",
+            "category": "Apparel",
+            "price": 49.99,
+            "image_path": "product_images/product_5.jpg",
+            "generated_listing": {
+                "title": "Puma Men Grey Casual Summer T-Shirt",
+                "description": "Elevate your casual wardrobe with the Puma Men Grey T-shirt, designed for comfort and style this summer. Crafted in a versatile grey hue, this T-shirt features a classic crew neck and short sleeves, perfect for everyday wear. The fitted cut ensures a sharp silhouette, while the lightweight fabric keeps you cool during warm days. Subtle yet distinct, the Puma logo on the chest adds a sporty touch without overwhelming the simplicity of the design. Ideal for casual outings, gym sessions, or relaxed weekends, this T-shirt pairs effortlessly with jeans or shorts. Experience the blend of quality, style, and comfort that Puma delivers, making it a must-have topwear option for men.",
+                "features": [
+                    "Classic grey color suitable for versatile styling",
+                    "Lightweight, breathable fabric ideal for summer wear",
+                    "Short sleeves and crew neck design for casual comfort",
+                    "Fitted cut enhances silhouette without compromising comfort",
+                    "Subtle Puma logo detail for a sporty yet refined look",
+                    "Durable material ensuring long-lasting use",
+                    "Perfect for casual, gym, or everyday summer activities"
+                ],
+                "keywords": "Puma men's T-shirt, grey T-shirt men, casual summer top, men's apparel, Puma casual wear, lightweight T-shirt, summer T-shirt men, fitted men's T-shirt, sporty T-shirt, breathable men's topwear, men's grey Tshirt, Puma clothing, men's casual tee, summer men's fashion, durable men's T-shirt"
+            }
+        },
+        {
+            "product_id": 6,
+            "original_name": "Inkfruit Mens Chain Reaction T-shirt",
+            "category": "Apparel",
+            "price": 49.99,
+            "image_path": "product_images/product_6.jpg",
+            "generated_listing": {
+                "title": "Inkfruit Mens Chain Reaction Grey Casual T-Shirt",
+                "description": "Elevate your summer wardrobe with the Inkfruit Mens Chain Reaction T-shirt, designed for the modern man who values both style and comfort. This grey topwear piece features a bold 'CHAIN REACTION' graphic print on the front, complemented by an urban-inspired design that adds a dynamic edge to your casual look. Crafted with breathable fabric, this t-shirt ensures all-day comfort during warmer days. Its classic crew neckline and short sleeves make it a versatile choice for everyday wear, whether you're heading out for a relaxed day with friends or running errands. The slim fit silhouette enhances your physique while providing freedom of movement. Pair it effortlessly with jeans or shorts for a trendy, laid-back vibe. At $49.99, this t-shirt offers excellent value with durable quality and a standout design that keeps you stylish season after season.",
+                "features": [
+                    "Premium breathable fabric ideal for summer wear",
+                    "Grey base color with bold 'CHAIN REACTION' graphic print",
+                    "Classic crew neck and short sleeves for a timeless look",
+                    "Slim fit design to enhance body shape",
+                    "Versatile casual style suitable for everyday use",
+                    "Durable stitching ensures long-lasting wear",
+                    "Easy to pair with jeans, shorts, or casual trousers"
+                ],
+                "keywords": "mens t-shirt, casual t-shirt, grey t-shirt, summer topwear, Inkfruit t-shirt, graphic t-shirt men, chain reaction design, breathable fabric, slim fit t-shirt, casual menswear, short sleeve t-shirt, men's summer fashion, urban style t-shirt, comfortable t-shirt men, trendy mens t-shirt"
+            }
+        },
+        {
+            "product_id": 7,
+            "original_name": "Fabindia Men Striped Green Shirt",
+            "category": "Apparel",
+            "price": 49.99,
+            "image_path": "product_images/product_7.jpg",
+            "generated_listing": {
+                "title": "Fabindia Men Striped Green Ethnic Shirt - Summer Topwear",
+                "description": "Experience elegant ethnic style with the Fabindia Men Striped Green Shirt, perfect for summer wear. Crafted in a refreshing green base color, this shirt features subtle vertical stripes that add a refined touch to its traditional appeal. Designed with a neat collar and full sleeves with buttoned cuffs, it offers a comfortable yet polished look. The lightweight fabric ensures breathability, making it ideal for warm weather and casual ethnic occasions. Pair it effortlessly with chinos or traditional bottoms for a versatile wardrobe essential that combines style and comfort seamlessly.",
+                "features": [
+                    "Refreshing green base color with subtle vertical stripes",
+                    "Full sleeves with buttoned cuffs for a tailored look",
+                    "Lightweight, breathable fabric ideal for summer",
+                    "Classic collar design enhancing ethnic styling",
+                    "Versatile topwear suitable for casual and ethnic occasions",
+                    "Comfortable fit for all-day wear",
+                    "Easy to pair with traditional and modern bottoms"
+                ],
+                "keywords": "Fabindia men's shirt, green striped shirt, ethnic men's topwear, summer shirt men, breathable cotton shirt, casual ethnic shirt, men's traditional wear, full sleeve shirt, lightweight men's shirt, men's summer fashion"
+            }
+        },
+        {
+            "product_id": 8,
+            "original_name": "Jealous 21 Women Purple Shirt",
+            "category": "Apparel",
+            "price": 49.99,
+            "image_path": "product_images/product_8.jpg",
+            "generated_listing": {
+                "title": "Jealous 21 Women Purple Casual Shirt - Summer Topwear",
+                "description": "Elevate your casual summer wardrobe with the Jealous 21 Women Purple Shirt. Crafted in a rich purple shade, this shirt features a classic collar and a button-down front, delivering a timeless look suitable for everyday wear. Designed with short sleeves and a tailored fit, it offers both comfort and style for warm weather. The lightweight fabric ensures breathability, making it an ideal choice for casual outings or relaxed office environments. Pair it effortlessly with jeans or skirts for a polished, versatile ensemble that transitions seamlessly from day to evening.",
+                "features": [
+                    "Rich purple color for a vibrant summer look",
+                    "Classic collar with button-down front design",
+                    "Short sleeves for enhanced comfort in warm weather",
+                    "Tailored fit to flatter the feminine silhouette",
+                    "Lightweight, breathable fabric ideal for summer",
+                    "Versatile style perfect for casual and semi-formal wear",
+                    "Easy to pair with jeans, skirts, or trousers"
+                ],
+                "keywords": "women purple shirt, casual summer shirt, Jealous 21 shirt, women's topwear, purple button-down shirt, short sleeve shirt, summer shirt women, casual shirt women, breathable fabric shirt, tailored fit shirt"
+            }
+        },
+        {
+            "product_id": 9,
+            "original_name": "Puma Men Pack of 3 Socks",
+            "category": "Accessories",
+            "price": 49.99,
+            "image_path": "product_images/product_9.jpg",
+            "generated_listing": {
+                "title": "Puma Men's Navy Blue Socks - Pack of 3",
+                "description": "Upgrade your everyday essentials with the Puma Men Pack of 3 Socks, designed for casual summer wear. These navy blue socks feature a sleek, solid color complemented by the iconic Puma logo near the cuff, adding a subtle sporty touch. Crafted for comfort and durability, they provide a snug fit that stays in place throughout the day. Ideal for pairing with sneakers or casual shoes, these socks offer breathability and lightweight support to keep your feet cool and comfortable. Perfect for men seeking both style and practicality in their accessories, this pack delivers excellent value with three pairs in one set.",
+                "features": [
+                    "Pack of 3 navy blue socks with Puma logo",
+                    "Designed for men's casual summer use",
+                    "Comfortable, breathable fabric for all-day wear",
+                    "Elastic cuff ensures a secure, slip-free fit",
+                    "Durable material for long-lasting performance",
+                    "Perfect for pairing with casual and sports footwear",
+                    "Lightweight design suitable for warm weather"
+                ],
+                "keywords": "Puma men's socks, navy blue socks, casual socks for men, summer socks men, pack of 3 socks, breathable men's socks, Puma logo socks, men's accessories, men's summer socks, comfortable socks men, durable socks, slip-resistant socks, lightweight socks men, men's casual wear socks"
+            }
+        },
+        {
+            "product_id": 10,
+            "original_name": "Skagen Men Black Watch",
+            "category": "Accessories",
+            "price": 49.99,
+            "image_path": "product_images/product_10.jpg",
+            "generated_listing": {
+                "title": "Skagen Men's Black Casual Winter Watch",
+                "description": "Elevate your everyday style with the Skagen Men Black Watch, designed for the modern man. Featuring a sleek black dial with minimalist hour markers and a subtle date window, this watch offers both functionality and elegance. The black stainless steel mesh strap ensures a comfortable and secure fit, perfect for casual winter wear. Its slim profile and monochrome design make it a versatile accessory that pairs effortlessly with any outfit, adding a touch of sophistication without overwhelming your look. Durable and stylish, this watch is an ideal choice for men seeking a reliable timepiece that complements their casual lifestyle.",
+                "features": [
+                    "Sleek black dial with minimalist design",
+                    "Durable black stainless steel mesh strap",
+                    "Slim profile for comfortable wear",
+                    "Subtle date window for added functionality",
+                    "Perfect for casual winter outfits",
+                    "Reliable quartz movement",
+                    "Water-resistant for everyday use"
+                ],
+                "keywords": "Skagen watch, men's black watch, casual men's watch, winter watch, black mesh strap, minimalist watch, men's accessories, quartz watch, water-resistant watch, slim men's watch, elegant men's watch, daily wear watch"
+            }
+        },
+        {
+            "product_id": 11,
+            "original_name": "Puma Men Future Cat Remix SF Black Casual Shoes",
+            "category": "Footwear",
+            "price": 49.99,
+            "image_path": "product_images/product_11.jpg",
+            "generated_listing": {
+                "title": "Puma Men Future Cat Remix SF Black Casual Shoes",
+                "description": "Step into sleek style with the Puma Men Future Cat Remix SF Casual Shoes, designed for those who value comfort and modern aesthetics. These black casual shoes feature a streamlined silhouette with a smooth synthetic upper that offers both durability and breathability, perfect for summer wear. The low-profile design includes subtle Puma branding on the side and heel, adding a touch of sporty elegance. Ideal for casual outings, these shoes provide a lightweight feel and flexible sole for everyday comfort. Whether you're heading to a casual meet-up or running errands, the Future Cat Remix SF delivers a perfect blend of style, practicality, and value at an affordable price.",
+                "features": [
+                    "Sleek black synthetic upper for durability and breathability",
+                    "Low-profile silhouette with subtle Puma branding",
+                    "Lightweight and flexible sole for all-day comfort",
+                    "Designed specifically for casual summer use",
+                    "Secure lace-up closure for a customized fit",
+                    "Ideal for everyday wear and casual occasions",
+                    "Affordable price point at $49.99"
+                ],
+                "keywords": "Puma casual shoes, men's black shoes, summer footwear, lightweight sneakers, casual men's shoes, breathable shoes, flexible sole shoes, Puma Future Cat, men's summer shoes, everyday casual shoes, affordable men's shoes"
+            }
+        },
+        {
+            "product_id": 12,
+            "original_name": "Fossil Women Black Huarache Weave Belt",
+            "category": "Accessories",
+            "price": 49.99,
+            "image_path": "product_images/product_12.jpg",
+            "generated_listing": {
+                "title": "Fossil Women's Black Huarache Weave Belt",
+                "description": "Elevate your casual summer wardrobe with the Fossil Women's Black Huarache Weave Belt. Crafted with a distinctive woven leather design, this belt offers both style and breathability, making it a perfect accessory for warm weather. The sleek black color pairs effortlessly with a variety of outfits, from jeans to dresses, adding a subtle yet sophisticated touch. Featuring a polished silver-tone buckle, it ensures secure and adjustable fit for maximum comfort. This belt is designed specifically for women who appreciate timeless accessories that combine function and fashion. Durable and versatile, it's an ideal choice for everyday wear or casual outings, enhancing your look with a refined edge.",
+                "features": [
+                    "Genuine leather construction with huarache weave design",
+                    "Classic black color complements diverse outfits",
+                    "Polished silver-tone adjustable buckle for secure fit",
+                    "Lightweight and breathable, perfect for summer use",
+                    "Designed specifically for women’s casual wear",
+                    "Durable craftsmanship for long-lasting use",
+                    "Ideal for pairing with jeans, skirts, and dresses"
+                ],
+                "keywords": "Fossil belt, women's belt, black leather belt, huarache weave belt, casual belt, summer accessories, adjustable belt, leather fashion belt, women's accessories, durable belt, stylish belt, breathable belt, silver buckle belt, everyday belt, versatile belt"
+            }
+        },
+        {
+            "product_id": 13,
+            "original_name": "Fila Men Cush Flex Black Slippers",
+            "category": "Footwear",
+            "price": 49.99,
+            "image_path": "product_images/product_13.jpg",
+            "generated_listing": {
+                "title": "Fila Men Cush Flex Black Flip Flops - Casual Comfort",
+                "description": "Experience ultimate casual comfort with the Fila Men Cush Flex Black Slippers. Designed for everyday wear, these flip flops feature a sleek black base with a subtle Fila logo on the strap, combining sporty style with functionality. The cushioned sole provides excellent support and flexibility, making them ideal for fall outings or relaxed indoor use. Their lightweight design ensures all-day comfort, while the durable rubber outsole offers reliable traction on various surfaces. Perfect for men seeking a versatile and stylish casual footwear option, these flip flops blend modern aesthetics with practical comfort effortlessly.",
+                "features": [
+                    "Classic black design with Fila logo on strap for subtle branding",
+                    "Cushioned sole for enhanced comfort and support",
+                    "Flexible sole adapts to natural foot movement",
+                    "Durable rubber outsole provides excellent traction",
+                    "Lightweight and breathable for all-day wear",
+                    "Ideal for casual use during fall season",
+                    "Easy slip-on flip flop style for convenience"
+                ],
+                "keywords": "Fila flip flops, men’s slippers, casual flip flops, black slippers, cushioned sandals, fall footwear, flexible flip flops, comfortable men’s sandals, sporty flip flops, durable casual shoes, lightweight slippers, rubber sole slippers, men’s casual footwear, slip-on sandals"
+            }
+        },
+        {
+            "product_id": 14,
+            "original_name": "Murcia Women Blue Handbag",
+            "category": "Accessories",
+            "price": 49.99,
+            "image_path": "product_images/product_14.jpg",
+            "generated_listing": {
+                "title": "Murcia Women Blue Casual Handbag - Summer Style",
+                "description": "Elevate your summer wardrobe with the Murcia Women Blue Handbag, designed for casual elegance and everyday convenience. This stylish handbag features a vibrant blue base color complemented by a unique black and white abstract pattern, adding a modern artistic touch to your look. The bag is equipped with sturdy black handles, accented with a bright yellow band near the top, providing both comfort and a pop of color contrast. Its spacious interior is perfect for carrying all your essentials, making it an ideal accessory for shopping, outings, or casual gatherings. Crafted to combine fashion with functionality, this handbag is lightweight yet durable, ensuring it stands up to daily use while enhancing your summer style effortlessly.",
+                "features": [
+                    "Vibrant blue base with black and white abstract pattern",
+                    "Comfortable black handles with yellow accent bands",
+                    "Spacious interior for daily essentials",
+                    "Lightweight yet durable construction",
+                    "Perfect for casual summer outings",
+                    "Stylish design suitable for various casual looks",
+                    "Easy to carry with dual handles"
+                ],
+                "keywords": "blue handbag, women's handbag, casual bag, summer handbag, Murcia handbag, stylish handbag, tote bag, lightweight handbag, durable bag, fashion accessory, women's accessories, everyday bag, shopping bag, artistic pattern handbag, yellow accent handbag"
+            }
+        },
+        {
+            "product_id": 15,
+            "original_name": "Ben 10 Boys Navy Blue Slippers",
+            "category": "Footwear",
+            "price": 49.99,
+            "image_path": "product_images/product_15.jpg",
+            "generated_listing": {
+                "title": "Ben 10 Boys Navy Blue Flip Flops for Casual Wear",
+                "description": "Step into comfort and style with the Ben 10 Boys Navy Blue Slippers, perfect for casual wear this fall season. These flip flops feature a sturdy navy blue base with vibrant red accents on the heel strap for a pop of color. The iconic Ben 10 character graphic adds a fun and playful element that boys will love. Designed with durable materials, these slippers provide reliable support and comfort for everyday use. The open-toe design ensures breathability, making them ideal for indoor and outdoor casual activities. Whether for lounging at home or running errands, these slippers combine functionality with trendy style, making them a valuable addition to any young boy's footwear collection.",
+                "features": [
+                    "Durable navy blue flip flop base with red heel strap accents",
+                    "Iconic Ben 10 graphic for a fun, kid-friendly design",
+                    "Comfortable open-toe design for breathability",
+                    "Ideal for casual, everyday use during the fall season",
+                    "Lightweight and easy to slip on and off",
+                    "Provides reliable support for active boys",
+                    "Suitable for indoor and outdoor wear"
+                ],
+                "keywords": "Ben 10 boys slippers, navy blue flip flops, boys casual footwear, kids flip flops, children's fall slippers, boys summer sandals, comfortable boys slippers, Ben 10 footwear, boys open-toe sandals, casual boys shoes"
+            }
+        }
+    ],
+    "errors": []
+}
