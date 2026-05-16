@@ -1,0 +1,216 @@
+2026-05-16 11:41:54,783 - __main__ - INFO - Loading products CSV from: products_metadata.csv
+2026-05-16 11:41:54,786 - __main__ - INFO - Loaded 20 products from CSV.
+2026-05-16 11:41:54,786 - __main__ - INFO - Starting batch processing. Limit: 15
+2026-05-16 11:41:54,787 - __main__ - INFO - Processing product row index 0: Turtle Check Men Navy Blue Shirt
+2026-05-16 11:41:54,787 - __main__ - INFO - Generating listing for product: Turtle Check Men Navy Blue Shirt
+2026-05-16 11:41:54,787 - __main__ - INFO - Validating product row: Turtle Check Men Navy Blue Shirt
+2026-05-16 11:41:54,787 - __main__ - INFO - Validation passed for product ID: 1
+2026-05-16 11:41:54,787 - __main__ - INFO - Encoding image to base64: product_images/product_1.jpg
+2026-05-16 11:41:54,787 - __main__ - INFO - Image encoded successfully: product_images/product_1.jpg
+2026-05-16 11:41:54,787 - __main__ - INFO - Creating prompt for product: Turtle Check Men Navy Blue Shirt
+2026-05-16 11:41:54,787 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:41:58,022 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:41:58,115 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:41:58,115 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:41:58,115 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:41:58,115 - __main__ - INFO - Listing generated for product: Turtle Check Men Navy Blue Shirt
+2026-05-16 11:41:58,115 - __main__ - INFO - Successfully processed product row index 0: Turtle Check Men Navy Blue Shirt
+2026-05-16 11:41:59,121 - __main__ - INFO - Processing product row index 1: Peter England Men Party Blue Jeans
+2026-05-16 11:41:59,121 - __main__ - INFO - Generating listing for product: Peter England Men Party Blue Jeans
+2026-05-16 11:41:59,121 - __main__ - INFO - Validating product row: Peter England Men Party Blue Jeans
+2026-05-16 11:41:59,122 - __main__ - INFO - Validation passed for product ID: 2
+2026-05-16 11:41:59,122 - __main__ - INFO - Encoding image to base64: product_images/product_2.jpg
+2026-05-16 11:41:59,123 - __main__ - INFO - Image encoded successfully: product_images/product_2.jpg
+2026-05-16 11:41:59,124 - __main__ - INFO - Creating prompt for product: Peter England Men Party Blue Jeans
+2026-05-16 11:41:59,124 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:02,227 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:02,229 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:02,229 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:02,229 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:02,229 - __main__ - INFO - Listing generated for product: Peter England Men Party Blue Jeans
+2026-05-16 11:42:02,230 - __main__ - INFO - Successfully processed product row index 1: Peter England Men Party Blue Jeans
+2026-05-16 11:42:03,231 - __main__ - INFO - Processing product row index 2: Titan Women Silver Watch
+2026-05-16 11:42:03,231 - __main__ - INFO - Generating listing for product: Titan Women Silver Watch
+2026-05-16 11:42:03,231 - __main__ - INFO - Validating product row: Titan Women Silver Watch
+2026-05-16 11:42:03,232 - __main__ - INFO - Validation passed for product ID: 3
+2026-05-16 11:42:03,232 - __main__ - INFO - Encoding image to base64: product_images/product_3.jpg
+2026-05-16 11:42:03,233 - __main__ - INFO - Image encoded successfully: product_images/product_3.jpg
+2026-05-16 11:42:03,233 - __main__ - INFO - Creating prompt for product: Titan Women Silver Watch
+2026-05-16 11:42:03,233 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:05,966 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:05,969 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:05,969 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:05,969 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:05,969 - __main__ - INFO - Listing generated for product: Titan Women Silver Watch
+2026-05-16 11:42:05,969 - __main__ - INFO - Successfully processed product row index 2: Titan Women Silver Watch
+2026-05-16 11:42:06,975 - __main__ - INFO - Processing product row index 3: Manchester United Men Solid Black Track Pants
+2026-05-16 11:42:06,975 - __main__ - INFO - Generating listing for product: Manchester United Men Solid Black Track Pants
+2026-05-16 11:42:06,975 - __main__ - INFO - Validating product row: Manchester United Men Solid Black Track Pants
+2026-05-16 11:42:06,975 - __main__ - INFO - Validation passed for product ID: 4
+2026-05-16 11:42:06,975 - __main__ - INFO - Encoding image to base64: product_images/product_4.jpg
+2026-05-16 11:42:06,977 - __main__ - INFO - Image encoded successfully: product_images/product_4.jpg
+2026-05-16 11:42:06,977 - __main__ - INFO - Creating prompt for product: Manchester United Men Solid Black Track Pants
+2026-05-16 11:42:06,977 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:09,777 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:09,779 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:09,779 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:09,779 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:09,780 - __main__ - INFO - Listing generated for product: Manchester United Men Solid Black Track Pants
+2026-05-16 11:42:09,780 - __main__ - INFO - Successfully processed product row index 3: Manchester United Men Solid Black Track Pants
+2026-05-16 11:42:10,781 - __main__ - INFO - Processing product row index 4: Puma Men Grey T-shirt
+2026-05-16 11:42:10,782 - __main__ - INFO - Generating listing for product: Puma Men Grey T-shirt
+2026-05-16 11:42:10,782 - __main__ - INFO - Validating product row: Puma Men Grey T-shirt
+2026-05-16 11:42:10,782 - __main__ - INFO - Validation passed for product ID: 5
+2026-05-16 11:42:10,782 - __main__ - INFO - Encoding image to base64: product_images/product_5.jpg
+2026-05-16 11:42:10,784 - __main__ - INFO - Image encoded successfully: product_images/product_5.jpg
+2026-05-16 11:42:10,784 - __main__ - INFO - Creating prompt for product: Puma Men Grey T-shirt
+2026-05-16 11:42:10,784 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:14,080 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:14,083 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:14,083 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:14,083 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:14,083 - __main__ - INFO - Listing generated for product: Puma Men Grey T-shirt
+2026-05-16 11:42:14,083 - __main__ - INFO - Successfully processed product row index 4: Puma Men Grey T-shirt
+2026-05-16 11:42:15,085 - __main__ - INFO - Processing product row index 5: Inkfruit Mens Chain Reaction T-shirt
+2026-05-16 11:42:15,086 - __main__ - INFO - Generating listing for product: Inkfruit Mens Chain Reaction T-shirt
+2026-05-16 11:42:15,086 - __main__ - INFO - Validating product row: Inkfruit Mens Chain Reaction T-shirt
+2026-05-16 11:42:15,086 - __main__ - INFO - Validation passed for product ID: 6
+2026-05-16 11:42:15,086 - __main__ - INFO - Encoding image to base64: product_images/product_6.jpg
+2026-05-16 11:42:15,087 - __main__ - INFO - Image encoded successfully: product_images/product_6.jpg
+2026-05-16 11:42:15,087 - __main__ - INFO - Creating prompt for product: Inkfruit Mens Chain Reaction T-shirt
+2026-05-16 11:42:15,087 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:21,061 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:21,063 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:21,063 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:21,063 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:21,063 - __main__ - INFO - Listing generated for product: Inkfruit Mens Chain Reaction T-shirt
+2026-05-16 11:42:21,063 - __main__ - INFO - Successfully processed product row index 5: Inkfruit Mens Chain Reaction T-shirt
+2026-05-16 11:42:22,069 - __main__ - INFO - Processing product row index 6: Fabindia Men Striped Green Shirt
+2026-05-16 11:42:22,069 - __main__ - INFO - Generating listing for product: Fabindia Men Striped Green Shirt
+2026-05-16 11:42:22,069 - __main__ - INFO - Validating product row: Fabindia Men Striped Green Shirt
+2026-05-16 11:42:22,069 - __main__ - INFO - Validation passed for product ID: 7
+2026-05-16 11:42:22,070 - __main__ - INFO - Encoding image to base64: product_images/product_7.jpg
+2026-05-16 11:42:22,070 - __main__ - INFO - Image encoded successfully: product_images/product_7.jpg
+2026-05-16 11:42:22,070 - __main__ - INFO - Creating prompt for product: Fabindia Men Striped Green Shirt
+2026-05-16 11:42:22,071 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:25,505 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:25,508 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:25,508 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:25,508 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:25,508 - __main__ - INFO - Listing generated for product: Fabindia Men Striped Green Shirt
+2026-05-16 11:42:25,508 - __main__ - INFO - Successfully processed product row index 6: Fabindia Men Striped Green Shirt
+2026-05-16 11:42:26,510 - __main__ - INFO - Processing product row index 7: Jealous 21 Women Purple Shirt
+2026-05-16 11:42:26,510 - __main__ - INFO - Generating listing for product: Jealous 21 Women Purple Shirt
+2026-05-16 11:42:26,511 - __main__ - INFO - Validating product row: Jealous 21 Women Purple Shirt
+2026-05-16 11:42:26,511 - __main__ - INFO - Validation passed for product ID: 8
+2026-05-16 11:42:26,511 - __main__ - INFO - Encoding image to base64: product_images/product_8.jpg
+2026-05-16 11:42:26,512 - __main__ - INFO - Image encoded successfully: product_images/product_8.jpg
+2026-05-16 11:42:26,512 - __main__ - INFO - Creating prompt for product: Jealous 21 Women Purple Shirt
+2026-05-16 11:42:26,512 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:29,879 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:29,882 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:29,882 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:29,882 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:29,882 - __main__ - INFO - Listing generated for product: Jealous 21 Women Purple Shirt
+2026-05-16 11:42:29,883 - __main__ - INFO - Successfully processed product row index 7: Jealous 21 Women Purple Shirt
+2026-05-16 11:42:30,888 - __main__ - INFO - Processing product row index 8: Puma Men Pack of 3 Socks
+2026-05-16 11:42:30,889 - __main__ - INFO - Generating listing for product: Puma Men Pack of 3 Socks
+2026-05-16 11:42:30,889 - __main__ - INFO - Validating product row: Puma Men Pack of 3 Socks
+2026-05-16 11:42:30,889 - __main__ - INFO - Validation passed for product ID: 9
+2026-05-16 11:42:30,889 - __main__ - INFO - Encoding image to base64: product_images/product_9.jpg
+2026-05-16 11:42:30,890 - __main__ - INFO - Image encoded successfully: product_images/product_9.jpg
+2026-05-16 11:42:30,890 - __main__ - INFO - Creating prompt for product: Puma Men Pack of 3 Socks
+2026-05-16 11:42:30,890 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:34,094 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:34,097 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:34,097 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:34,097 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:34,098 - __main__ - INFO - Listing generated for product: Puma Men Pack of 3 Socks
+2026-05-16 11:42:34,098 - __main__ - INFO - Successfully processed product row index 8: Puma Men Pack of 3 Socks
+2026-05-16 11:42:35,101 - __main__ - INFO - Processing product row index 9: Skagen Men Black Watch
+2026-05-16 11:42:35,102 - __main__ - INFO - Generating listing for product: Skagen Men Black Watch
+2026-05-16 11:42:35,102 - __main__ - INFO - Validating product row: Skagen Men Black Watch
+2026-05-16 11:42:35,102 - __main__ - INFO - Validation passed for product ID: 10
+2026-05-16 11:42:35,102 - __main__ - INFO - Encoding image to base64: product_images/product_10.jpg
+2026-05-16 11:42:35,103 - __main__ - INFO - Image encoded successfully: product_images/product_10.jpg
+2026-05-16 11:42:35,103 - __main__ - INFO - Creating prompt for product: Skagen Men Black Watch
+2026-05-16 11:42:35,103 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:38,369 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:38,371 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:38,371 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:38,372 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:38,372 - __main__ - INFO - Listing generated for product: Skagen Men Black Watch
+2026-05-16 11:42:38,372 - __main__ - INFO - Successfully processed product row index 9: Skagen Men Black Watch
+2026-05-16 11:42:39,375 - __main__ - INFO - Processing product row index 10: Puma Men Future Cat Remix SF Black Casual Shoes
+2026-05-16 11:42:39,376 - __main__ - INFO - Generating listing for product: Puma Men Future Cat Remix SF Black Casual Shoes
+2026-05-16 11:42:39,376 - __main__ - INFO - Validating product row: Puma Men Future Cat Remix SF Black Casual Shoes
+2026-05-16 11:42:39,376 - __main__ - INFO - Validation passed for product ID: 11
+2026-05-16 11:42:39,376 - __main__ - INFO - Encoding image to base64: product_images/product_11.jpg
+2026-05-16 11:42:39,378 - __main__ - INFO - Image encoded successfully: product_images/product_11.jpg
+2026-05-16 11:42:39,378 - __main__ - INFO - Creating prompt for product: Puma Men Future Cat Remix SF Black Casual Shoes
+2026-05-16 11:42:39,378 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:43,794 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:43,796 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:43,797 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:43,797 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:43,797 - __main__ - INFO - Listing generated for product: Puma Men Future Cat Remix SF Black Casual Shoes
+2026-05-16 11:42:43,797 - __main__ - INFO - Successfully processed product row index 10: Puma Men Future Cat Remix SF Black Casual Shoes
+2026-05-16 11:42:44,799 - __main__ - INFO - Processing product row index 11: Fossil Women Black Huarache Weave Belt
+2026-05-16 11:42:44,799 - __main__ - INFO - Generating listing for product: Fossil Women Black Huarache Weave Belt
+2026-05-16 11:42:44,799 - __main__ - INFO - Validating product row: Fossil Women Black Huarache Weave Belt
+2026-05-16 11:42:44,799 - __main__ - INFO - Validation passed for product ID: 12
+2026-05-16 11:42:44,799 - __main__ - INFO - Encoding image to base64: product_images/product_12.jpg
+2026-05-16 11:42:44,800 - __main__ - INFO - Image encoded successfully: product_images/product_12.jpg
+2026-05-16 11:42:44,800 - __main__ - INFO - Creating prompt for product: Fossil Women Black Huarache Weave Belt
+2026-05-16 11:42:44,800 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:47,684 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:47,687 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:47,687 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:47,687 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:47,687 - __main__ - INFO - Listing generated for product: Fossil Women Black Huarache Weave Belt
+2026-05-16 11:42:47,687 - __main__ - INFO - Successfully processed product row index 11: Fossil Women Black Huarache Weave Belt
+2026-05-16 11:42:48,693 - __main__ - INFO - Processing product row index 12: Fila Men Cush Flex Black Slippers
+2026-05-16 11:42:48,694 - __main__ - INFO - Generating listing for product: Fila Men Cush Flex Black Slippers
+2026-05-16 11:42:48,694 - __main__ - INFO - Validating product row: Fila Men Cush Flex Black Slippers
+2026-05-16 11:42:48,694 - __main__ - INFO - Validation passed for product ID: 13
+2026-05-16 11:42:48,694 - __main__ - INFO - Encoding image to base64: product_images/product_13.jpg
+2026-05-16 11:42:48,695 - __main__ - INFO - Image encoded successfully: product_images/product_13.jpg
+2026-05-16 11:42:48,696 - __main__ - INFO - Creating prompt for product: Fila Men Cush Flex Black Slippers
+2026-05-16 11:42:48,696 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:51,883 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:51,885 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:51,885 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:51,885 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:51,885 - __main__ - INFO - Listing generated for product: Fila Men Cush Flex Black Slippers
+2026-05-16 11:42:51,886 - __main__ - INFO - Successfully processed product row index 12: Fila Men Cush Flex Black Slippers
+2026-05-16 11:42:52,891 - __main__ - INFO - Processing product row index 13: Murcia Women Blue Handbag
+2026-05-16 11:42:52,892 - __main__ - INFO - Generating listing for product: Murcia Women Blue Handbag
+2026-05-16 11:42:52,892 - __main__ - INFO - Validating product row: Murcia Women Blue Handbag
+2026-05-16 11:42:52,892 - __main__ - INFO - Validation passed for product ID: 14
+2026-05-16 11:42:52,892 - __main__ - INFO - Encoding image to base64: product_images/product_14.jpg
+2026-05-16 11:42:52,894 - __main__ - INFO - Image encoded successfully: product_images/product_14.jpg
+2026-05-16 11:42:52,894 - __main__ - INFO - Creating prompt for product: Murcia Women Blue Handbag
+2026-05-16 11:42:52,894 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:55,874 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:55,875 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:55,876 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:55,876 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:55,876 - __main__ - INFO - Listing generated for product: Murcia Women Blue Handbag
+2026-05-16 11:42:55,876 - __main__ - INFO - Successfully processed product row index 13: Murcia Women Blue Handbag
+2026-05-16 11:42:56,881 - __main__ - INFO - Processing product row index 14: Ben 10 Boys Navy Blue Slippers
+2026-05-16 11:42:56,882 - __main__ - INFO - Generating listing for product: Ben 10 Boys Navy Blue Slippers
+2026-05-16 11:42:56,882 - __main__ - INFO - Validating product row: Ben 10 Boys Navy Blue Slippers
+2026-05-16 11:42:56,882 - __main__ - INFO - Validation passed for product ID: 15
+2026-05-16 11:42:56,882 - __main__ - INFO - Encoding image to base64: product_images/product_15.jpg
+2026-05-16 11:42:56,884 - __main__ - INFO - Image encoded successfully: product_images/product_15.jpg
+2026-05-16 11:42:56,884 - __main__ - INFO - Creating prompt for product: Ben 10 Boys Navy Blue Slippers
+2026-05-16 11:42:56,884 - __main__ - INFO - Calling OpenAI API with model gpt-5.4-mini, attempt 1 of 3
+2026-05-16 11:42:59,897 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2026-05-16 11:42:59,898 - __main__ - INFO - OpenAI API call completed successfully.
+2026-05-16 11:42:59,898 - __main__ - INFO - Parsing API response as JSON.
+2026-05-16 11:42:59,899 - __main__ - INFO - API response parsed successfully.
+2026-05-16 11:42:59,899 - __main__ - INFO - Listing generated for product: Ben 10 Boys Navy Blue Slippers
+2026-05-16 11:42:59,899 - __main__ - INFO - Successfully processed product row index 14: Ben 10 Boys Navy Blue Slippers
+2026-05-16 11:43:00,900 - __main__ - INFO - Saving results to JSON file: generated_product_listings_refactored.json
+2026-05-16 11:43:00,904 - __main__ - INFO - Results saved successfully to: generated_product_listings_refactored.json
+2026-05-16 11:43:00,904 - __main__ - INFO - Batch processing complete. Successful: 15, Failed: 0
