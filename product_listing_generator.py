@@ -143,7 +143,7 @@ def generate_product_listing(product):
     )
 
     response = client.responses.create(
-        model="gpt-4.1-mini",
+        model="gpt-5.4-mini",
         input=[
             {
                 "role": "user",
